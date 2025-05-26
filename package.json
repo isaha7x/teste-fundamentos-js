@@ -1,0 +1,16 @@
+{
+  "name": "trabalho_final_disciplina_programacao_para_automatizacao_de_testes",
+  "version": "1.0.0",
+  "main": "trabalho.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "keywords": [],
+  "description": "",
+  "devDependencies": {
+    "mocha": "^11.5.0"
+  }
+}
